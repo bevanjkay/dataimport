@@ -12,8 +12,8 @@
     "async": "^3.1.0",
     "fluro": "^1.0.74",
     "inquirer": "^7.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
-    "papaparse": "^5.0.0"
+    "papaparse": "^5.2.0"
   }
 }
